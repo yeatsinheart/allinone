@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/casino/casino.iml" filepath="$PROJECT_DIR$/casino/casino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conmon/conmon.iml" filepath="$PROJECT_DIR$/conmon/conmon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casino/manage/manage.iml" filepath="$PROJECT_DIR$/casino/manage/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb-manage/nb-manage.iml" filepath="$PROJECT_DIR$/nb-manage/nb-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb-page/nb-page.iml" filepath="$PROJECT_DIR$/nb-page/nb-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casino/owner/owner.iml" filepath="$PROJECT_DIR$/casino/owner/owner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project.iml" filepath="$PROJECT_DIR$/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casino/user/user.iml" filepath="$PROJECT_DIR$/casino/user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usg-h5/usg-h5.iml" filepath="$PROJECT_DIR$/usg-h5/usg-h5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usg-pc/usg-pc.iml" filepath="$PROJECT_DIR$/usg-pc/usg-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casino/view/view.iml" filepath="$PROJECT_DIR$/casino/view/view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casino/welfare/welfare.iml" filepath="$PROJECT_DIR$/casino/welfare/welfare.iml" />
+    </modules>
+  </component>
+</project>

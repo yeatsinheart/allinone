@@ -11,6 +11,17 @@
 
     <groupId>com.casino</groupId>
     <artifactId>welfare</artifactId>
-
+    <repositories>
+        <!--<repository>
+            <id>releases</id>
+            <name>releases</name>
+            <url>http://172.16.9.83:9966/repository/maven-releases/</url>
+        </repository>
+        <repository>
+            <id>snapshots</id>
+            <name>snapshots</name>
+            <url>http://172.16.9.83:9966/repository/maven-snapshots/</url>
+        </repository>-->
+    </repositories>
 
 </project>
